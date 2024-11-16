@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/3395.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navbar {
+    background-color: rgb(20, 19, 19);
+}
+
+.text {
+    color: rgb(236, 187, 53);
+}
+.text:hover {
+    color: white;
+}
+.title {
+    color: rgb(236, 187, 53);  
+}
+
+.btn {
+    color: rgb(236, 187, 53);
+    border-color: rgb(236, 187, 53);
+}
+
+.btn:hover {
+    color: white;
+    border-color: white;
+}
+.logo {
+    width: 60px;
+}
